@@ -1,1 +1,1 @@
-# projects
+The Airline Management System is a desktop-based Windows application developed using the C#.NET platform and a Microsoft SQL (MsSQL) database. The system provides functionalities for Admins, Users, and Ticket Sellers to manage passenger information, flight details, ticket booking, and cancellations. User can reseat password using Gmail.
